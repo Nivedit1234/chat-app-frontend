@@ -54,7 +54,7 @@ const AuthPage = (props) => {
 
       <div className="content">
         <form onSubmit={onSubmit} className="form-card">
-          <div className="form-title">Welcome To Farmit Application👋</div>
+          <div className="form-title">Welcome To Farmit👋</div>
 
           <div className="form-subtitle">Set a username to get started</div>
 
