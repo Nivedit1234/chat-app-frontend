@@ -15,7 +15,7 @@ import {
 
 const ChatsPage = (props) => {
   const chatProps = useMultiChatLogic(
-    "bc87edb3-493a-496f-a1d1-2afe6090299f",  //project-id
+    "50b65e46-54b4-46ab-b12e-f6c3ccd6f9c8",  //project-id
     props.user.username,
     props.user.secret
   );
